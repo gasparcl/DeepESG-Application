@@ -2,5 +2,8 @@
 
 "# Please, run main.py and test_account.py to test application"
 
-"Thanks for your time'
+"# Select the default files(chart_of_accounts.xlsx and 
+    general_ledger.xlsx)"
+
+"Thanks for your time"
 
